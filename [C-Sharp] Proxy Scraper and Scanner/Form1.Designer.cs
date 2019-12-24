@@ -443,7 +443,7 @@ namespace CS_Proxy
             this.proxyJudgesComboBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.proxyJudgesComboBox.FormattingEnabled = true;
             this.proxyJudgesComboBox.Items.AddRange(new object[] {
-            "http://proxyjudge.info/azenv.php",
+            "http://www.e-cotton.jp/env.cgi",
             "http://pascal.hoez.free.fr/azenv.php",
             "http://www.proxy-listen.de/azenv.php",
             "http://proxyjudge.info/",
@@ -452,7 +452,7 @@ namespace CS_Proxy
             "http://www.nucleoproducoes.com.br/1/azenv.php",
             "http://users.on.net/~emerson/env/env.pl",
             "http://www2t.biglobe.ne.jp/~take52/test/env.cgi",
-            "http://www.e-cotton.jp/env.cgi"});
+            "http://proxyjudge.info/azenv.php"});
             this.proxyJudgesComboBox.Location = new System.Drawing.Point(13, 29);
             this.proxyJudgesComboBox.Name = "proxyJudgesComboBox";
             this.proxyJudgesComboBox.Size = new System.Drawing.Size(206, 21);
